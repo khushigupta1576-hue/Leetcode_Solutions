@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-15T16:31:06.417Z",
+  "updatedAt": "2026-09-15T16:33:11.980Z",
   "problems": [
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "fc1ff8dbf01aedc420444497e263b28fe8522c1b",
+          "lastSyncedAt": "2026-09-15T16:33:11.980Z"
+        }
+      ]
+    },
     {
       "frontendId": "1929",
       "title": "Concatenation of Array",
