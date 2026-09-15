@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T16:31:40.111Z",
+  "updatedAt": "2026-09-15T16:31:46.457Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "b059c77d7dee20b63047f508600f9e0a12e4c6b3",
+          "lastSyncedAt": "2026-09-15T16:31:46.457Z"
+        }
+      ]
+    },
     {
       "frontendId": "35",
       "title": "Search Insert Position",
