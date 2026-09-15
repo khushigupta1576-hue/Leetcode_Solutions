@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T16:33:20.148Z",
+  "updatedAt": "2026-09-15T16:33:29.471Z",
   "problems": [
     {
       "frontendId": "1",
@@ -223,6 +223,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
           "sha": "686fa296d3b2cee65bf79e1c2b129ba8a3d4f758",
           "lastSyncedAt": "2026-09-15T16:33:20.148Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1470-shuffle-the-array.java",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
+          "sha": "cb559b2679feb14f7b9654637fee6edc5b6f661a",
+          "lastSyncedAt": "2026-09-15T16:33:29.471Z"
         }
       ]
     },
