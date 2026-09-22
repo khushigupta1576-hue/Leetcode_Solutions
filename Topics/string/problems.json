@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-22T05:33:02.058Z",
+  "problems": [
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0344-reverse-string.java",
+          "path": "0344-reverse-string/0344-reverse-string.java",
+          "sha": "9d727b0d00dd9b085c1b8f02922461e4b340175c",
+          "lastSyncedAt": "2026-09-22T05:33:02.058Z"
+        }
+      ]
+    }
+  ]
+}
