@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T05:51:34.505Z",
+  "updatedAt": "2026-09-24T05:52:01.847Z",
   "problems": [
     {
       "frontendId": "26",
@@ -42,7 +42,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "f4fb959ea26978dab7956c4f6a6366fcfd9891b1",
-          "lastSyncedAt": "2026-09-24T05:51:34.505Z"
+          "lastSyncedAt": "2026-09-24T05:52:01.847Z"
         }
       ]
     },
