@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-22T05:33:02.058Z",
+  "updatedAt": "2026-09-24T05:51:34.505Z",
   "problems": [
     {
       "frontendId": "26",
@@ -23,6 +23,26 @@
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
           "sha": "b059c77d7dee20b63047f508600f9e0a12e4c6b3",
           "lastSyncedAt": "2026-09-15T16:31:46.457Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
+          "sha": "f4fb959ea26978dab7956c4f6a6366fcfd9891b1",
+          "lastSyncedAt": "2026-09-24T05:51:34.505Z"
         }
       ]
     },
