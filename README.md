@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 13 | 4 | 0 |
+| 19 | 15 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 2 days | 10 |
+| 1 days | 2 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,21 +25,23 @@ Contains topicwise list of solved problems.
 | 2026-09-07 | 1 |
 | 2026-09-09 | 4 |
 | 2026-09-10 | 1 |
+| 2026-09-22 | 1 |
+| 2026-09-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 94% |
-| Binary Search | 5 | 29% |
-| Two Pointers | 3 | 18% |
-| Math | 2 | 12% |
-| Matrix | 2 | 12% |
-| Simulation | 2 | 12% |
-| Bit Manipulation | 1 | 6% |
-| Divide and Conquer | 1 | 6% |
-| Dynamic Programming | 1 | 6% |
-| Floyd's Cycle Finding Algorithm | 1 | 6% |
+| Array | 16 | 84% |
+| Binary Search | 5 | 26% |
+| Two Pointers | 4 | 21% |
+| Math | 2 | 11% |
+| Matrix | 2 | 11% |
+| Simulation | 2 | 11% |
+| String | 2 | 11% |
+| Bit Manipulation | 1 | 5% |
+| Bracket Sequences | 1 | 5% |
+| Divide and Conquer | 1 | 5% |
 
 ## Topics
 
@@ -50,6 +52,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
@@ -66,8 +69,9 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
