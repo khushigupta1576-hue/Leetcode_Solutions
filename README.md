@@ -69,3 +69,19 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 0 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+<!---LeetCode Topics End-->
