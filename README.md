@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 15 | 4 | 0 |
+| 20 | 16 | 4 | 0 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-09 | 4 |
 | 2026-09-10 | 1 |
 | 2026-09-22 | 1 |
-| 2026-09-24 | 1 |
+| 2026-09-24 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 84% |
-| Binary Search | 5 | 26% |
-| Two Pointers | 4 | 21% |
-| Math | 2 | 11% |
-| Matrix | 2 | 11% |
-| Simulation | 2 | 11% |
-| String | 2 | 11% |
+| Array | 16 | 80% |
+| Binary Search | 5 | 25% |
+| Two Pointers | 5 | 25% |
+| String | 3 | 15% |
+| Math | 2 | 10% |
+| Matrix | 2 | 10% |
+| Simulation | 2 | 10% |
 | Bit Manipulation | 1 | 5% |
+| Boyer–Moore String-Search Algorithm | 1 | 5% |
 | Bracket Sequences | 1 | 5% |
-| Divide and Conquer | 1 | 5% |
 
 ## Topics
 
