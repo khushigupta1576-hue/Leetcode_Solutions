@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 17 | 4 | 0 |
+| 22 | 18 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 12 |
+| 1 days | 2 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,21 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-09-10 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-24 | 3 |
+| 2026-09-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 81% |
-| Binary Search | 5 | 24% |
-| Two Pointers | 5 | 24% |
-| String | 4 | 19% |
-| Math | 2 | 10% |
-| Matrix | 2 | 10% |
-| Simulation | 2 | 10% |
+| Array | 17 | 77% |
+| Binary Search | 5 | 23% |
+| String | 5 | 23% |
+| Two Pointers | 5 | 23% |
+| Bracket Sequences | 2 | 9% |
+| Math | 2 | 9% |
+| Matrix | 2 | 9% |
+| Simulation | 2 | 9% |
+| Stack | 2 | 9% |
 | Bit Manipulation | 1 | 5% |
-| Boyer–Moore String-Search Algorithm | 1 | 5% |
-| Bracket Sequences | 1 | 5% |
 
 ## Topics
 
@@ -53,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
@@ -71,8 +72,8 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
