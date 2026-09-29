@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 18 | 4 | 0 |
+| 24 | 20 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 13 |
+| 2 days | 2 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 1 |
 | 2026-09-24 | 3 |
 | 2026-09-28 | 1 |
+| 2026-09-29 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 77% |
-| Binary Search | 5 | 23% |
-| String | 5 | 23% |
-| Two Pointers | 5 | 23% |
-| Bracket Sequences | 2 | 9% |
-| Math | 2 | 9% |
-| Matrix | 2 | 9% |
-| Simulation | 2 | 9% |
-| Stack | 2 | 9% |
-| Bit Manipulation | 1 | 5% |
+| Array | 17 | 71% |
+| String | 7 | 29% |
+| Binary Search | 5 | 21% |
+| Two Pointers | 5 | 21% |
+| Hash Table | 3 | 13% |
+| Bracket Sequences | 2 | 8% |
+| Math | 2 | 8% |
+| Matrix | 2 | 8% |
+| Simulation | 2 | 8% |
+| Sorting | 2 | 8% |
 
 ## Topics
 
@@ -55,12 +56,13 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -69,11 +71,12 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 2 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
