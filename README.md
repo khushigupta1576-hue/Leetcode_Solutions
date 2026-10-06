@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 20 | 4 | 0 |
+| 25 | 21 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 14 |
+| 1 days | 2 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-13 | 1 |
 | 2026-08-17 | 1 |
 | 2026-08-20 | 3 |
 | 2026-08-22 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-24 | 3 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 2 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 71% |
-| String | 7 | 29% |
-| Binary Search | 5 | 21% |
-| Two Pointers | 5 | 21% |
-| Hash Table | 3 | 13% |
+| Array | 17 | 68% |
+| String | 7 | 28% |
+| Binary Search | 5 | 20% |
+| Two Pointers | 5 | 20% |
+| Hash Table | 3 | 12% |
+| Math | 3 | 12% |
 | Bracket Sequences | 2 | 8% |
-| Math | 2 | 8% |
+| Dynamic Programming | 2 | 8% |
 | Matrix | 2 | 8% |
 | Simulation | 2 | 8% |
-| Sorting | 2 | 8% |
 
 ## Topics
 
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 3 |
@@ -67,12 +67,14 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
