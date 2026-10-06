@@ -119,4 +119,20 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
