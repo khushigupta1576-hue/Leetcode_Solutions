@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-15T16:33:02.125Z",
+  "updatedAt": "2026-10-06T04:56:41.378Z",
   "problems": [
     {
       "frontendId": "121",
@@ -23,6 +23,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "d091f57913b1e85f2cf402eea3e2dbd645bad207",
           "lastSyncedAt": "2026-09-15T16:33:02.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0509-fibonacci-number.java",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.java",
+          "sha": "a3f9c6ffdc3b715d4e8d17c34f5a7874af899ffc",
+          "lastSyncedAt": "2026-10-06T04:56:41.378Z"
         }
       ]
     }
