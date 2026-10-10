@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-09-29T05:51:02.798Z",
+  "updatedAt": "2026-10-10T05:57:59.763Z",
   "problems": [
     {
       "frontendId": "14",
@@ -143,6 +144,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "32c7fa82e28c387daebdfa8cda47f3b87ed6fd16",
           "lastSyncedAt": "2026-09-28T16:54:42.063Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "problemName": "1832-check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "folderPath": "1832-check-if-the-sentence-is-pangram/",
+      "readmePath": "1832-check-if-the-sentence-is-pangram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1832-check-if-the-sentence-is-pangram.java",
+          "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.java",
+          "sha": "4c864e6fcec37075a1077bcfea54cb8a8fcdca13",
+          "lastSyncedAt": "2026-10-10T05:57:59.763Z"
         }
       ]
     }
