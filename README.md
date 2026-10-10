@@ -94,6 +94,7 @@ Contains topicwise list of solved problems.
 | [0242-valid-anagram](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
