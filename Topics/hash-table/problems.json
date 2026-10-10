@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-09-29T05:51:02.798Z",
+  "updatedAt": "2026-10-10T05:57:59.763Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +64,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "4bbe2831bf2057f664bde493a45e2fcb73b77735",
           "lastSyncedAt": "2026-09-29T05:51:02.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1832",
+      "title": "Check if the Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "problemName": "1832-check-if-the-sentence-is-pangram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "folderPath": "1832-check-if-the-sentence-is-pangram/",
+      "readmePath": "1832-check-if-the-sentence-is-pangram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1832-check-if-the-sentence-is-pangram.java",
+          "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.java",
+          "sha": "4c864e6fcec37075a1077bcfea54cb8a8fcdca13",
+          "lastSyncedAt": "2026-10-10T05:57:59.763Z"
         }
       ]
     }
