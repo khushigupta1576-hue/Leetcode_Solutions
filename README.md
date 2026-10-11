@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 21 | 4 | 0 |
+| 27 | 23 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 15 |
+| 2 days | 2 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-17 | 1 |
-| 2026-08-20 | 3 |
 | 2026-08-22 | 2 |
 | 2026-08-23 | 2 |
 | 2026-09-04 | 1 |
@@ -29,27 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 1 |
 | 2026-09-29 | 2 |
 | 2026-10-06 | 1 |
+| 2026-10-10 | 1 |
+| 2026-10-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 68% |
-| String | 7 | 28% |
-| Binary Search | 5 | 20% |
-| Two Pointers | 5 | 20% |
-| Hash Table | 3 | 12% |
-| Math | 3 | 12% |
-| Bracket Sequences | 2 | 8% |
-| Dynamic Programming | 2 | 8% |
-| Matrix | 2 | 8% |
-| Simulation | 2 | 8% |
+| Array | 18 | 67% |
+| String | 8 | 30% |
+| Binary Search | 5 | 19% |
+| Two Pointers | 5 | 19% |
+| Hash Table | 4 | 15% |
+| Math | 3 | 11% |
+| Bracket Sequences | 2 | 7% |
+| Dynamic Programming | 2 | 7% |
+| Matrix | 2 | 7% |
+| Simulation | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -60,9 +60,10 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -78,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
