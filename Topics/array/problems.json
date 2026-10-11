@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-09-24T06:03:00.184Z",
+  "updatedAt": "2026-10-11T17:01:24.615Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +344,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "50ec9172f820c722c98e9d3a07ce6f55cf35e3f5",
           "lastSyncedAt": "2026-09-15T16:31:06.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2778-sum-of-squares-of-special-elements.java",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
+          "sha": "e21da4d3fb7c59cd66f255b9957db97c2afbf002",
+          "lastSyncedAt": "2026-10-11T17:01:24.615Z"
         }
       ]
     }
