@@ -139,4 +139,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/khushigupta1576-hue/Leetcode_Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
