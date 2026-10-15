@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 23 | 4 | 0 |
+| 28 | 24 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 17 |
+| 1 days | 2 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-22 | 2 |
 | 2026-08-23 | 2 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 67% |
-| String | 8 | 30% |
-| Binary Search | 5 | 19% |
-| Two Pointers | 5 | 19% |
-| Hash Table | 4 | 15% |
+| Array | 18 | 64% |
+| String | 8 | 29% |
+| Binary Search | 5 | 18% |
+| Two Pointers | 5 | 18% |
+| Hash Table | 4 | 14% |
 | Math | 3 | 11% |
 | Bracket Sequences | 2 | 7% |
 | Dynamic Programming | 2 | 7% |
 | Matrix | 2 | 7% |
-| Simulation | 2 | 7% |
+| Recursion | 2 | 7% |
 
 ## Topics
 
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
